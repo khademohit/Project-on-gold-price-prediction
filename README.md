@@ -1,1 +1,2 @@
 # Project-on-gold-price-prediction
+##For forecasting of data, we came up with multiple models like linear model, exponential models, Holts Winter model, ARIMA model, and as well as the SARIMA model. Here we found out that due to seasonality in the model, the SARIMA model has great accuracy. So we did deployment on Streamlit as well as using Flask. We deployed Holt's winter model using Streamlit and Sarima using Flask.
